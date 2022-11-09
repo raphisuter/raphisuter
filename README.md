@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @raphisuter
+Hello there fellow coder, I’m @raphisuter👋
 - 👀 I’m interested in coding, tech-trends, mountainbiking and climbing
-- 🌱 I’m currently learning all sort of things
+- ✨ My skills focus on JavaEE/JakartaEE, JSF, JPA, Primefaces, Keycloak, OracleSQL, Oracle PL/SQL, js/jQuery
+- 🌱 Bachelor of Applied Science in Computer Science FHZ
+- 🌱 iSAQB Certified Professional for Software Architecture - Foundation Level
+- 🌱 Professional Scrum Master I (PSM I)
 <!--
 - 📫 How to reach me -> dm
 --->
