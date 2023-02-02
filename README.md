@@ -4,6 +4,12 @@ Hello there fellow coder, welcome to my profile
 - 🎓 Bachelor of Applied Science in Computer Science FHZ
 - 🚀 iSAQB Certified Professional for Software Architecture - Foundation Level
 - 🔎 Professional Scrum Master I (PSM I)
+
+Currently working on iSAQB Certified Professional for Software Architecture - Advanced Level
+- ✔️ CPSA DDD - Domain Driven Design Training
+- ⏳  CPSA WEB - Web Based Software Architecture Certification
+
+
 <!--
 - 📫 How to reach me -> dm
 --->
