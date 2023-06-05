@@ -7,7 +7,7 @@ Hello there fellow coder, welcome to my profile
 
 Currently working on iSAQB Certified Professional for Software Architecture - Advanced Level
 - ✔️ CPSA DDD - Domain Driven Design Training
-- ⏳  CPSA WEB - Web Based Software Architecture Certification
+- ✔️ CPSA WEB - Web Based Software Architecture Certification
 
 
 <!--
